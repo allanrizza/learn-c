@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdio.h>
 int main() {
 
     // Arrays can only have one type of variable, because they are implemented as a sequence of values in the computer's memory. Because of that, accessing a specific array cell is very efficient.
